@@ -2,6 +2,7 @@ body {
   text-align: center;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(156, 14, 73);
+  background-color: rgb(253, 228, 228);
 }
 .links {
   margin-top: 40px;
