@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(156, 14, 73);
+}
+.links {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
